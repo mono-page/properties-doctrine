@@ -1,8 +1,8 @@
 {
-    "name": "mono-page/properties-types-doctrine",
+    "name": "mono-page/properties-doctrine",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/mono-page/properties-types-doctrine",
+    "homepage": "https://github.com/mono-page/properties-doctrine",
     "type": "library",
     "require": {
         "php": "^7.4",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Monopage\\Properties\\Types\\Doctrine\\": "source"
+            "Monopage\\Properties\\Doctrine\\": "source"
         }
     },
     "config": {

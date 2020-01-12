@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Monopage\Properties\Types\Doctrine;
+namespace Monopage\Properties\Doctrine\Exceptions;
 
 use Monopage\Contracts\Exceptions\MaintenanceException;
 
